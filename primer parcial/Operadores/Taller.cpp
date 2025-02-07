@@ -12,5 +12,5 @@ main(){
     n2=auz;
     n3=n1; 
     cout<<"la posicion va cambiar\n"<<" primera " <<n1<<" segunda " <<n2<< " tercera "<<n3; 
-
+    cout<<"Hola";
 }    
