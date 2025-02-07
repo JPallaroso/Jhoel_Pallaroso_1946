@@ -10,6 +10,7 @@ main(){
     cout<<"a <= b: "<<(a <= b) <<endl; 
     cout<<"a == b: "<<(a == b) <<endl; 
     cout<<"a !=   b: "<<(a != b) <<endl;
+    cout<<"Hola";
 
     //Operadores logicos
     cout << "c && d:"<< boolalpha<< (c && d) <<endl; 
